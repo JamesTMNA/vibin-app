@@ -152,7 +152,7 @@ const UploadPage = () => {
                     <Upload className="w-12 h-12 text-gray-400 mx-auto mb-4" />
                     <p className="text-lg text-gray-300 mb-2">Click to upload video</p>
                     <p className="text-sm text-gray-500">MP4, MOV, AVI up to 10MB</p>
-                    <p className="text-xs text-gray-500 mt-2">Recommended: 6-second videos for best Vine experience</p>
+                    <p className="text-xs text-gray-500 mt-2">Recommended: 6-second videos for best Vibin' experience</p>
                   </div>
                 ) : (
                   <div className="relative bg-gray-800 rounded-lg overflow-hidden">
