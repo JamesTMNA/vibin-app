@@ -106,7 +106,7 @@ video {
 
 /* Gradient text */
 .gradient-text {
-  background: linear-gradient(45deg, #10b981, #06d6a0);
+  background: linear-gradient(45deg, #14b8a6, #06b6d4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
