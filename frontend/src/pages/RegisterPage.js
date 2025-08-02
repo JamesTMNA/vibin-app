@@ -59,7 +59,7 @@ const RegisterPage = () => {
         displayName: formData.displayName,
         username: formData.username,
         email: formData.email,
-        bio: `New to Vine! 🌱`
+        bio: `New to Vibin'! 🌱`
       });
 
       if (result.success) {
