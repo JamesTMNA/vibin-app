@@ -135,8 +135,8 @@ const UploadPage = () => {
           <Card className="bg-gray-900 border-gray-700">
             <CardHeader>
               <CardTitle className="text-2xl font-bold text-white flex items-center gap-2">
-                <Video className="w-6 h-6 text-green-500" />
-                Upload Your Vine
+                <Video className="w-6 h-6 text-teal-500" />
+                Upload Your Vibin'
               </CardTitle>
               <p className="text-gray-400">Share your creativity in 6 seconds</p>
             </CardHeader>
