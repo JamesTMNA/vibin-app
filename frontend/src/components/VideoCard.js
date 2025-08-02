@@ -225,7 +225,7 @@ const VideoCard = forwardRef(({ video, isActive }, ref) => {
                   value={commentText}
                   onChange={(e) => setCommentText(e.target.value)}
                   placeholder="Add a comment..."
-                  className="flex-1 px-3 py-2 border border-gray-300 rounded-full focus:outline-none focus:ring-2 focus:ring-purple-500"
+                  className="flex-1 px-3 py-2 border border-gray-300 rounded-full focus:outline-none focus:ring-2 focus:ring-teal-500"
                   onKeyPress={(e) => e.key === 'Enter' && handleComment()}
                 />
                 <Button
