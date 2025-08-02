@@ -137,7 +137,7 @@ const ProfilePage = () => {
                       className={`${
                         isFollowing
                           ? 'bg-gray-600 hover:bg-gray-700 text-white'
-                          : 'bg-green-600 hover:bg-green-700 text-white'
+                          : 'bg-teal-600 hover:bg-teal-700 text-white'
                       } transition-colors`}
                     >
                       {isFollowing ? (
