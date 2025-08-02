@@ -159,7 +159,7 @@ const RegisterPage = () => {
                 value={formData.confirmPassword}
                 onChange={handleChange}
                 required
-                className="bg-gray-700 border-gray-600 text-white placeholder-gray-400 focus:border-green-500 pr-10"
+                className="bg-gray-700 border-gray-600 text-white placeholder-gray-400 focus:border-teal-500 pr-10"
               />
               <Button
                 type="button"
