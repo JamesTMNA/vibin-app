@@ -226,7 +226,7 @@ const UploadPage = () => {
                     value={formData.description}
                     onChange={handleChange}
                     placeholder="Tell viewers about your video..."
-                    className="bg-gray-800 border-gray-600 text-white placeholder-gray-400 focus:border-green-500 resize-none"
+                    className="bg-gray-800 border-gray-600 text-white placeholder-gray-400 focus:border-teal-500 resize-none"
                     rows={3}
                     maxLength={300}
                   />
