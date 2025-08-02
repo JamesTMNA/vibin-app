@@ -245,7 +245,7 @@ const UploadPage = () => {
                     value={formData.tags}
                     onChange={handleChange}
                     placeholder="funny, comedy, viral, trending..."
-                    className="bg-gray-800 border-gray-600 text-white placeholder-gray-400 focus:border-green-500"
+                    className="bg-gray-800 border-gray-600 text-white placeholder-gray-400 focus:border-teal-500"
                   />
                   <p className="text-xs text-gray-500 mt-1">
                     Add tags to help others discover your content
