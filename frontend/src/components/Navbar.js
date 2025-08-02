@@ -24,7 +24,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex items-center">
             <h1 className="text-2xl font-bold text-white cursor-pointer" onClick={() => navigate('/')}>
-              <span className="text-green-500">V</span>ine
+              <span className="text-teal-500">V</span>ibin'
             </h1>
           </div>
 
