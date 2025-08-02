@@ -107,7 +107,7 @@ const UploadPage = () => {
 
       toast({
         title: "Video uploaded successfully!",
-        description: "Your video is now live on Vine",
+        description: "Your video is now live on Vibin'",
       });
 
       navigate('/');
