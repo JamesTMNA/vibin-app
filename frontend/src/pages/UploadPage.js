@@ -212,7 +212,7 @@ const UploadPage = () => {
                     value={formData.title}
                     onChange={handleChange}
                     placeholder="Give your video a catchy title..."
-                    className="bg-gray-800 border-gray-600 text-white placeholder-gray-400 focus:border-green-500"
+                    className="bg-gray-800 border-gray-600 text-white placeholder-gray-400 focus:border-teal-500"
                     maxLength={100}
                   />
                 </div>
