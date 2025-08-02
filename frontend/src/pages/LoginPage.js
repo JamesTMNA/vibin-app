@@ -84,9 +84,9 @@ const LoginPage = () => {
       <Card className="w-full max-w-md bg-gray-800 border-gray-700">
         <CardHeader className="text-center">
           <CardTitle className="text-3xl font-bold text-white mb-2">
-            <span className="text-green-500">V</span>ine
+            <span className="text-teal-500">V</span>ibin'
           </CardTitle>
-          <p className="text-gray-400">Welcome back to the loop</p>
+          <p className="text-gray-400">Welcome back to the vibe</p>
         </CardHeader>
         <CardContent className="space-y-4">
           <form onSubmit={handleSubmit} className="space-y-4">
