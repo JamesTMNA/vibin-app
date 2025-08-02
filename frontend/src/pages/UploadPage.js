@@ -265,7 +265,7 @@ const UploadPage = () => {
                   <Button
                     type="submit"
                     disabled={!selectedFile || isLoading}
-                    className="flex-1 bg-green-600 hover:bg-green-700 text-white disabled:opacity-50"
+                    className="flex-1 bg-teal-600 hover:bg-teal-700 text-white disabled:opacity-50"
                   >
                     {isLoading ? 'Uploading...' : 'Upload Video'}
                   </Button>
