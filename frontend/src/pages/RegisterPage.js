@@ -64,7 +64,7 @@ const RegisterPage = () => {
 
       if (result.success) {
         toast({
-          title: "Welcome to Vine!",
+          title: "Welcome to Vibin'!",
           description: "Your account has been created successfully.",
         });
         navigate('/');
