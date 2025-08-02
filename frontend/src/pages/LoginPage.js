@@ -64,7 +64,7 @@ const LoginPage = () => {
       if (result.success) {
         toast({
           title: "Demo Login Successful!",
-          description: "Welcome to Vine clone!",
+          description: "Welcome to Vibin'!",
         });
         navigate('/');
       }
