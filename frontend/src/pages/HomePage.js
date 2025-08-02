@@ -64,7 +64,7 @@ const HomePage = () => {
       {/* Floating Upload Button */}
       <Button
         onClick={() => navigate('/upload')}
-        className="fixed bottom-6 right-6 w-14 h-14 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 border-0 shadow-2xl z-50 transition-all duration-300 hover:scale-110"
+        className="fixed bottom-6 right-6 w-14 h-14 rounded-full bg-gradient-to-r from-teal-500 to-cyan-500 hover:from-teal-600 hover:to-cyan-600 border-0 shadow-2xl z-50 transition-all duration-300 hover:scale-110"
       >
         <Plus className="w-6 h-6" />
       </Button>
