@@ -209,7 +209,7 @@ const ProfilePage = () => {
                   {isOwnProfile && (
                     <Button
                       onClick={() => navigate('/upload')}
-                      className="bg-green-600 hover:bg-green-700 text-white"
+                      className="bg-teal-600 hover:bg-teal-700 text-white"
                     >
                       Upload Your First Video
                     </Button>
