@@ -276,7 +276,7 @@ const UploadPage = () => {
               <div className="bg-gray-800 rounded-lg p-4 border border-gray-700">
                 <h4 className="font-medium text-white mb-2">Tips for great Vibin's:</h4>
                 <ul className="text-sm text-gray-400 space-y-1">
-                  <li>• Keep it to 6 seconds for the authentic Vine experience</li>
+                  <li>• Keep it to 6 seconds for the authentic Vibin' experience</li>
                   <li>• Make the first second count - grab attention immediately</li>
                   <li>• Use good lighting and clear audio</li>
                   <li>• Add relevant tags to help others discover your content</li>
