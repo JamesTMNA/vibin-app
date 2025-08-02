@@ -184,14 +184,14 @@ const ProfilePage = () => {
             <TabsList className="grid w-full grid-cols-2 bg-gray-800 border border-gray-700">
               <TabsTrigger
                 value="videos"
-                className="data-[state=active]:bg-green-600 data-[state=active]:text-white text-gray-400"
+                className="data-[state=active]:bg-teal-600 data-[state=active]:text-white text-gray-400"
               >
                 Videos ({userVideos.length})
               </TabsTrigger>
               {isOwnProfile && (
                 <TabsTrigger
                   value="liked"
-                  className="data-[state=active]:bg-green-600 data-[state=active]:text-white text-gray-400"
+                  className="data-[state=active]:bg-teal-600 data-[state=active]:text-white text-gray-400"
                 >
                   Liked ({likedVideos.length})
                 </TabsTrigger>
